@@ -20,7 +20,12 @@ versus
 There is a great github project to fix all of that:
 https://github.com/stonecrusher/simpleMenuWizard
 
-Grab a copy the project, extract it into "chrome" folder in the  firefox profile (on MacOS you'll be looking for something like "/Users/YOURUSERNAME/Library/Application Support/Firefox/Profiles/RANDOMASCII.default/chrome/") and edit the following files:
+Grab a copy the project, extract it into "chrome" folder in the  firefox profile 
+
+''''on MacOS you'll be looking for something like /Users/YOURUSERNAME/Library/Application Support/Firefox/Profiles/RANDOMASCII.default/chrome/ ''''
+
+
+and edit the following files:
 
 blank-context.css
 ````
@@ -91,8 +96,10 @@ link-context.css
     { display:none !important; }
 ````
 
-The end results look like this
+The end results look like this:
+
 ![no context fixed](https://raw.githubusercontent.com/pavelmalik/FirefoxRightClickMenus/master/fixed.png)
+
 ![link context fixed](https://raw.githubusercontent.com/pavelmalik/FirefoxRightClickMenus/master/fixedlink.png)
 
 
