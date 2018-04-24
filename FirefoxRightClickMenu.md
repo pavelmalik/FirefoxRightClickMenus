@@ -1,9 +1,9 @@
 ## Fixing the UX disaster of Firefox right click contextual menus
 
 #### More features = More better
-Firefox seems to fall for this user interace trap *a lot* - modal contextual menus are packed with all kinds of options, all of which change based on the context of the right click. 
+Firefox seems to fall for this user interface trap *a lot* - modal contextual menus are packed with all kinds of options, all of which change based on the context of the right click. 
 
-The no-context (ie anywhere on the page) right-click menu is the worst offender by far, packing in *four* redundant navigation controls into one menu item line, before adding all other contols already available in the tab controls.
+The no-context (ie anywhere on the page) right-click menu is the worst offender by far, packing in *four* redundant navigation controls into one menu item line, before adding other controls that are already available in the tab frame.
 
 The problem is that about 99% percent of contextual menu interaction is in the form of right clicking a link to open in a new tab (assuming your other hand isn't near the keyboard) and if you happen to move the mouse outside the link boundry while clicking to open the menu, you'll invariably end up navigating the page forward or backward or maybe refreshing the page. 
 
