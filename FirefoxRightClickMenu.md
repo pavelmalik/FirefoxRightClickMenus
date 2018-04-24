@@ -20,10 +20,10 @@ versus
 There is a great github project to fix all of that:
 https://github.com/stonecrusher/simpleMenuWizard
 
-Grab a copy the project, extract it into "chrome" folder in the  firefox profile 
-
+Grab a copy the project, extract it into "chrome" folder in the  firefox profile, on MacOS you'll be looking for something like 
 ````
-on MacOS you'll be looking for something like /Users/YOURUSERNAME/Library/Application Support/Firefox/Profiles/RANDOMASCII.default/chrome/````
+/Users/YOURUSERNAME/Library/Application Support/Firefox/Profiles/RANDOMASCII.default/chrome/
+````
 
 
 
