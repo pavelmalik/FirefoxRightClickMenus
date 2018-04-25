@@ -1,4 +1,4 @@
-## Fixing the UX disaster of Firefox right click contextual menus
+## Fixing the UX disaster in Firefox right click contextual menus
 
 #### More features = More better
 Firefox seems to fall for this user interface trap *a lot* - modal contextual menus are packed with all kinds of options, all of which change based on the context of the right click. 
